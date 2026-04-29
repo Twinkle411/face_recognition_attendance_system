@@ -43,6 +43,7 @@ This system captures facial images through a camera, compares it with the stored
 3. Start webcam for live detection
 4. Recognize faces in real-time
 5. Mark attendance with timestamp
+   
 ---- Running the recognize.py ----
    
 ---
